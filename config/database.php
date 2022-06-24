@@ -3,8 +3,7 @@
 use Illuminate\Support\Str;
 
 
-$DATABASE_URL=parse_url('postgres://abrdvdrhrgnbli:5431dd3886f5be1274c80815799c9dc658eca59ce9ee3226623847a8c3026b26@ec2-34-200-35-222.compute-1.amazonaws.com:5432/dbrr1od4sruiuj
-PS C:\Users\AMIRA\Desktop\Web\iloan-app> ^C');
+$DATABASE_URL=parse_url('postgres://abrdvdrhrgnbli:5431dd3886f5be1274c80815799c9dc658eca59ce9ee3226623847a8c3026b26@ec2-34-200-35-222.compute-1.amazonaws.com:5432/dbrr1od4sruiuj');
 
 return [
 
