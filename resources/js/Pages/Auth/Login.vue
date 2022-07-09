@@ -33,9 +33,7 @@ const submit = () => {
     <Head title="Log in" />
 
     <JetAuthenticationCard>
-        <template #logo>
-            <span class="text-2xl font-semibold">NIMROD</span>
-        </template>
+     
 
         <JetValidationErrors class="mb-4" />
 
@@ -95,6 +93,14 @@ const submit = () => {
                     Log in
                 </JetButton>
             </div>
+             <div class="flex justify-center pt-8 ">
+                    <Link
+                        :href="route('register')"
+                        class="no-underline text-sm  bg-slate-800 text-center text-gray-50 px-3 py-2 rounded-md hover:bg-slate-700"
+                    >
+                        Click here to register
+                    </Link>
+                </div>
         </form>
     </JetAuthenticationCard>
 </template>

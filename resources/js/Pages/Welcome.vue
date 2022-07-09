@@ -150,7 +150,7 @@ const hModal = ref(false);
 
                     <h1 class="pb-5">
                         This redirect takes you to a community deployed and
-                        maintained instance of the open source Aave front end,
+                        maintained instance of the open source Nimrod front end,
                         hosted and served on the distributed, peer-to-peer file
                         network known as the Interplanetary File System (IPFS).
                     </h1>

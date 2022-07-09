@@ -142,14 +142,14 @@ const nimrodMart = ref([
     id: 1,
     mart: "Ethereum",
     martIcon: "aave.svg",
-    text: "Aave was first deployed on the Ethereum network in January 2020. Ethereum is the largest market on the Aave protocol by liquidity and has the most listed assets.",
+    text: "Nimrod was first deployed on the Ethereum network in January 2020. Ethereum is the largest market on the Nimrod protocol by liquidity and has the most listed assets.",
     urlLink: "",
   },
   {
     id: 2,
     mart: "Polygon",
     martIcon: "polygon.svg",
-    text: "Faster transactions and lower fees make interacting with Aave on Polygon perfect for high volume transactions. Earn rewards in polygon for supply liquidity and borrowing.",
+    text: "Faster transactions and lower fees make interacting with Nimrod on Polygon perfect for high volume transactions. Earn rewards in polygon for supply liquidity and borrowing.",
     urlLink: "",
   },
   {
@@ -163,7 +163,7 @@ const nimrodMart = ref([
     id: 4,
     mart: "Arbitrum",
     martIcon: "arbitrum.svg",
-    text: "Ethereums security with speed. Arbitrum is a L2 rollup deployed on Aave for secure, fast transactions.",
+    text: "Ethereums security with speed. Arbitrum is a L2 rollup deployed on Nimrod for secure, fast transactions.",
     urlLink: "",
   },
   {
